@@ -23,9 +23,9 @@ POST: https://www.tiktok.com/ttwid/union/register/
 ```
 
 ## APIs I have tried
-    * tiktok api like video
-    * tiktok api get profile info
-    .... 
+  * tiktok api like video
+  * tiktok api get profile info
+  * .... 
 
 ## X_Bogus breakpoint
 ```node
