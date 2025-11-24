@@ -60,38 +60,38 @@ import fs from "fs"
 })();
 '''
 
-Disclaimer for Use of Open Source Code
+## Disclaimer for Use of Open Source Code
 
-1. Scope of Use
-This source code is provided as “as-is” and under an open-source model. By using, copying, modifying, or distributing this code, you agree to the terms stated below.
+  1. Scope of Use
+  This source code is provided as “as-is” and under an open-source model. By using, copying, modifying, or distributing this code, you agree to the terms stated below.
 
-2. No Liability for Misuse
-The author assumes no responsibility or liability for any misuse, unlawful use, prohibited activities, damage, or any consequences arising from the use of this source code.
-All responsibility lies solely with the end user.
+  2. No Liability for Misuse
+  The author assumes no responsibility or liability for any misuse, unlawful use, prohibited activities, damage, or any consequences arising from the use of this source code.
+  All responsibility lies solely with the end user.
 
-3. No Warranty
-This source code is provided without any warranties, including but not limited to:
+  3. No Warranty
+  This source code is provided without any warranties, including but not limited to:
 
-Fitness for any particular purpose
+  Fitness for any particular purpose
 
-Reliability, stability, or error-free operation
+  Reliability, stability, or error-free operation
 
-Security, safety, or non-infringement of third-party rights
+  Security, safety, or non-infringement of third-party rights
 
-Users assume all risks associated with using this code.
+  Users assume all risks associated with using this code.
 
-4. Limitation of Liability
-Under no circumstances shall the author be liable for:
+  4. Limitation of Liability
+  Under no circumstances shall the author be liable for:
 
-Direct or indirect damages
+  Direct or indirect damages
 
-Loss of data, loss of profits, or business interruption
+  Loss of data, loss of profits, or business interruption
 
-Any consequences arising from the use or inability to use the code
+  Any consequences arising from the use or inability to use the code
 
-5. User Responsibility
-By using this code, the user agrees to:
+  5. User Responsibility
+  By using this code, the user agrees to:
 
-Not use it for unlawful or harmful purposes
+  Not use it for unlawful or harmful purposes
 
-Take full responsibility for security, safety, and any resulting consequences
+  Take full responsibility for security, safety, and any resulting consequences
