@@ -23,6 +23,9 @@ class API_TIKTOK {
 
   obj_cookie(cookie) {
     const newData = {};
+    if (!cookie){
+      return newData;
+    }
     const cookies = cookie.split(";");
     Object.keys(cookie.split(";")).forEach(function (n) {
       const sp = cookies[n].split("=");
